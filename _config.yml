@@ -25,4 +25,6 @@ github_username:  zupnik
 markdown: kramdown
 theme: minima
 paginate: 5
+highlighter: pygments
+
 # paginate_path: "/blog/page:num/"
